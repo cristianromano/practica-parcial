@@ -1,0 +1,51 @@
+[
+    {
+        "sabor": "Fugazzeta",
+        "tipo": "piedra",
+        "cantidad": 90,
+        "idPizza": 85,
+        "precio": 99.99
+    },
+    {
+        "sabor": "Napolitana",
+        "tipo": "molde",
+        "cantidad": 60,
+        "idPizza": 69,
+        "precio": 109.99
+    },
+    {
+        "sabor": "Clasica",
+        "tipo": "piedra",
+        "cantidad": 10,
+        "idPizza": 15,
+        "precio": 79.99
+    },
+    {
+        "sabor": "Anchoas",
+        "tipo": "molde",
+        "cantidad": 100,
+        "idPizza": 4,
+        "precio": 69.99
+    },
+    {
+        "sabor": "Napolitana",
+        "tipo": "molde",
+        "cantidad": 10,
+        "idPizza": 76,
+        "precio": 89.99
+    },
+    {
+        "sabor": "Muzarrella",
+        "tipo": "molde",
+        "cantidad": 80,
+        "idPizza": 41,
+        "precio": 89.99
+    },
+    {
+        "sabor": "Bacon",
+        "tipo": "piedra",
+        "cantidad": 85,
+        "idPizza": 77,
+        "precio": 149.99
+    }
+]
